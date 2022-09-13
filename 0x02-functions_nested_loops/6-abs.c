@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - Entry point
- *
+ * _abs - a function that computes the absolute value of an integer
+ *@ab: integer input
  * Return: Always return 0 (success)
  */
 int _abs(int ab)
